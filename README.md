@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento de sistemas
 - 👯 Estou procurando colaborar em projetos de front/back
 - 🤔 Estou procurando ajuda com ...
-- 📫 Como entrar em contato comigo: sarahagalbier11@gmail.com
+- 📫 Como entrar em contato comigo: sarahgalbier11@gmail.com
 - 😄 Pronomes: ela/dela
   
 
